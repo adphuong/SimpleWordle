@@ -41,7 +41,7 @@ GIF created with ...  LICE
 
 I didn't face too many challenges with this app. The only thing I struggled with, initially, was working with the
 ConstraintLayout - specifically trying to figure out how to align the TextView items. However, the resources provided for Lab 1 
-really helped solidfy my understanding and solved the issue I was having.
+really helped solidfy my understanding, and I was able to solve the issue I was having.
 
 ## License
 
